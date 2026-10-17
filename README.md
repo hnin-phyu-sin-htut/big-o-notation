@@ -2,7 +2,7 @@
 
 This repository contains my notes and Java example code for learning Big O Notation.
 
-## In Progress
+## Time Complexity
 
 - O(1) - Constant Time ✅
 - O(log n) - Logarithmic Time ✅
